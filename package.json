@@ -41,7 +41,7 @@
     "typescript": "^2.1.6"
   },
   "dependencies": {
-    "docker-modem": "^0.3.1",
+    "docker-modem": "2.1.4",
     "memorystream": "^0.3.1"
   }
 }
